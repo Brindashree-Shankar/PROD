@@ -1,0 +1,9 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "(localdb)\\mssqllocaldb"
+  },
+  "AppSettings": {
+    "SomeSetting": "SomeValue",
+    "AnotherSetting": "AnotherValue"
+  }
+}
